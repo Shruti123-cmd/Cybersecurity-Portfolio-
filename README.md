@@ -53,4 +53,4 @@ To become a SOC Analyst by building practical cybersecurity skills through real-
 
 ## 📫 Connect
 - GitHub: Shruti123-cmd
-- Email: your email here
+- Email: shruticharbhai282@gmail.com
