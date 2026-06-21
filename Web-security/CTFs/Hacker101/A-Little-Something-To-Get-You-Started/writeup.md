@@ -1,15 +1,15 @@
 Hacker101 CTF - A Little Something To Get You Started
 Challenge Information
 
-Platform: Hacker101 CTF
-Challenge: A Little Something To Get You Started
-Difficulty: Trivial
-Category: Web Security
-Objective
+-Platform: Hacker101 CTF
+-Challenge: A Little Something To Get You Started
+-Difficulty: Trivial
+-Category: Web Security
 
+-Objective:
 Retrieve the hidden flag by performing basic web reconnaissance and source code analysis.
 
-Methodology
+-Methodology:
 - Step 1: Review Page Source
 . Viewed the page source code and examined the HTML elements.
 . During the review, the following resource reference was identified:
